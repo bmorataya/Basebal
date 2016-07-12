@@ -1,0 +1,30 @@
+.container {
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    /*TRBL */
+    border: 1px solid black;
+    width: 1000px;
+}
+
+h1 {
+    color: purple;
+}
+
+
+/*
+Navbar
+*/
+
+li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+.main-content {
+    margin: 30px;
+}
+
+.main-content p {
+    padding-left: 25px;
+}
